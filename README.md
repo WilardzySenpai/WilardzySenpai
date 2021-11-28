@@ -22,6 +22,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to an Anti-Nuke Discord Bot in Replit | No Coding require.](https://www.youtube.com/watch?v=LKyyNJKqPkA)
+- [new server :D](https://www.youtube.com/watch?v=EoHW_MNbDJ8)
+- [How to make NFSW Discord BOT | Neko.life | Repl](https://www.youtube.com/watch?v=ojAyFJgAfRU)
+- [How to make Leveling System Discord BOT | Replit 24/7 Alive](https://www.youtube.com/watch?v=uOfKzxa3Y24)
+- [Make a All In One Discord BOT w/ BUTTONS](https://www.youtube.com/watch?v=WTgMfNCs4fQ)
 <!-- YOUTUBE:END -->
 
 ----
