@@ -34,6 +34,10 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="WilardzySenpai's GitHub Stats" src="https://github-readme-stats.WilardzySenpai.vercel.app/api?username=WilardzySenpai&show_icons=true&hide_border=true" />
+
 [website]: https://www.milfsupremacy.tk
 [youtube]: https://youtube.com/wilardzysenpai
 [discord]: https://discord.gg/JehBMxdef5
