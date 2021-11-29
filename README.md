@@ -18,6 +18,11 @@
 <br />
 <br />
 
+----
+### Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://www.milfsupremacy.tk
 [youtube]: https://youtube.com/wilardzysenpai
 [discord]: https://discord.gg/JehBMxdef5
