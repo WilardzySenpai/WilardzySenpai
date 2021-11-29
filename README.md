@@ -29,19 +29,24 @@
 - [Make a All In One Discord BOT w/ BUTTONS](https://www.youtube.com/watch?v=WTgMfNCs4fQ)
 <!-- YOUTUBE:END -->
 
-----
-### Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+➡️ [more videos...](https://youtube.com/wilardzysenpai)
 
 ---
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
 <img align="left" alt="WilardzySenpai's GitHub Stats" src="https://github-readme-stats.WilardzySenpai.vercel.app/api?username=WilardzySenpai&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://www.milfsupremacy.tk
 [youtube]: https://youtube.com/wilardzysenpai
