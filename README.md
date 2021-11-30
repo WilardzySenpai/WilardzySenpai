@@ -1,6 +1,7 @@
 ### Hi there, I'm Wilard - aka [SadSenpai][website] 👋 
 
 [![Website](https://img.shields.io/website?label=milfsupremacy.tk&style=for-the-badge&url=https%3A%2F%2Fwww.milfsupremacy.tk)](https://www.milfsupremacy.tk)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
 
 ## I'm a Students, Developer, and a Weeb :D
 
