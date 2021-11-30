@@ -45,11 +45,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to make/find Mongo URI | Step by step tutorial | MongoDB](https://www.youtube.com/watch?v=aygw0wjW5bA)
 - [How to make an Uptimer Discord Bot with Moderations commands and more! | No Coding Require](https://www.youtube.com/watch?v=M9sDfOYXckM)
 - [How to an Anti-Nuke Discord Bot in Replit | No Coding require.](https://www.youtube.com/watch?v=LKyyNJKqPkA)
 - [new server :D](https://www.youtube.com/watch?v=EoHW_MNbDJ8)
 - [How to make NFSW Discord BOT | Neko.life | Repl](https://www.youtube.com/watch?v=ojAyFJgAfRU)
-- [How to make Leveling System Discord BOT | Replit 24/7 Alive](https://www.youtube.com/watch?v=uOfKzxa3Y24)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/wilardzysenpai)
