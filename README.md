@@ -53,6 +53,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/WilardzySenpai/senpai-readme-stats/pull/1) in [WilardzySenpai/senpai-readme-stats](https://github.com/WilardzySenpai/senpai-readme-stats)
   <!--END_SECTION:activity-->
   
 
