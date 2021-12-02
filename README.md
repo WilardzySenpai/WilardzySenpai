@@ -60,7 +60,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/WilardzySenpai/senpai-readme-stats/pull/1) in [WilardzySenpai/senpai-readme-stats](https://github.com/WilardzySenpai/senpai-readme-stats)
+1. ❗️ Opened issue [#2](https://github.com/peterhanania/ticket-bot/issues/2) in [peterhanania/ticket-bot](https://github.com/peterhanania/ticket-bot)
   <!--END_SECTION:activity-->
   
 
