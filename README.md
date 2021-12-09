@@ -52,6 +52,11 @@
 - [osu! | KSUKE - Contradiction feat  Tyler Carter &lpar;TV Size&rpar; [Extra]](https://www.youtube.com/watch?v=maVhFugGuLM)
 <!-- YOUTUBE:END -->
 
+
+
+        
+    
+
 ➡️ [more videos...](https://youtube.com/wilardzysenpai)
 
 ---
@@ -69,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img height="180em" alt="WLegit's stats" src="https://github-readme-stats.vercel.app/api?username=WLegit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="top" />
+  <img height="180em" alt="WilardzySenpai's stats" src="https://github-readme-stats.vercel.app/api?username=WilardzySenpai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="top" />
 
 </details>
 
