@@ -69,7 +69,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=WilardzySenpai&show_icons=true&hide_border=true" />
+  <img height="180em" alt="WLegit's stats" src="https://github-readme-stats.vercel.app/api?username=WLegit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" align="top" />
 
 </details>
 
