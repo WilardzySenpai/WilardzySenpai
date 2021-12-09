@@ -17,6 +17,13 @@
 - 🎭 2021-2022 Goals: Finish all my works 🙂
 - 🎉 Fun fact: I love your mom & sis...
 
+<br />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilardzysenpai&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilardzysenpai&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="https://osu.ppy.sh/users/18601796" width="22px" src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" />][osu]
@@ -70,12 +77,6 @@
   
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilardzysenpai&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilardzysenpai&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 
 </details>
 
