@@ -4,12 +4,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)
 [![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/JehBMxdef5)
 
-<br />
-
-[![GitHub followers](https://img.shields.io/github/followers/WilardzySenpai?label=WilardzySenpai&logo=Github)](https://github.com/WilardzySenpai)
-[![GitHub User's stars](https://img.shields.io/github/stars/WilardzySenpai?label=Stars&logo=Github)](https://github.com/WilardzySenpai)
-
-
 ## I'm a Students, Developer, and a Weeb :D
 
 - ⏰ Trying my best to live
@@ -21,8 +15,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilardzysenpai&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilardzysenpai&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-
-<br />
 
 ### Connect with me:
 
