@@ -45,11 +45,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to make Discord Ticket Bot in replit | No Coding Require](https://www.youtube.com/watch?v=FSFVHDIhTlI)
 - [looks good tho](https://www.youtube.com/watch?v=JF34Y9Y69Ao)
 - [300k on 200BPM Stream osu!](https://www.youtube.com/watch?v=OSxAoBv2Pvs)
 - [How to make Discord Music BOT | 24/7 StayTime | Replit | No Coding Require](https://www.youtube.com/watch?v=OW1C3p8wNdU)
 - [osu! | KSUKE - Contradiction feat  Tyler Carter &lpar;TV Size&rpar; [Extra]](https://www.youtube.com/watch?v=maVhFugGuLM)
-- [How to make/find Mongo URI | Step by step tutorial | MongoDB](https://www.youtube.com/watch?v=aygw0wjW5bA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/wilardzysenpai)
