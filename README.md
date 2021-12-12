@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/peterhanania/ticket-bot/issues/2) in [peterhanania/ticket-bot](https://github.com/peterhanania/ticket-bot)
+1. ❗️ Opened issue [#218](https://github.com/ZerioDev/Music-bot/issues/218) in [ZerioDev/Music-bot](https://github.com/ZerioDev/Music-bot)
   <!--END_SECTION:activity-->
   
 
