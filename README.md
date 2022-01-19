@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [someone sent me this video cause I reach 2k subs.](https://www.youtube.com/watch?v=o66T-_geznY)
 - [my first 6⭐map... khz possess me, kinda..](https://www.youtube.com/watch?v=ytpbXIZIzbU)
 - [How to make a Discord Music BOT with Filter + Custom Volumes | No Coding Require | Replit](https://www.youtube.com/watch?v=79xNC6KVQrY)
 - [[osu!] - CIDER GIRL  Cinderella &lpar;TV Size&rpar; [ How to communicate with friends ]](https://www.youtube.com/watch?v=h76Kt9kLLAg)
 - [osu! 300k | my stamina training 200bpm](https://www.youtube.com/watch?v=N-HvCHtlNCA)
-- [How to make Discord Reaction Role Bot in Replit | No Coding Require | Uptime 24/7](https://www.youtube.com/watch?v=mjfDU_4hvSk)
 <!-- YOUTUBE:END -->
 
 
