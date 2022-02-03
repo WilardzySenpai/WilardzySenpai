@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Japan | Weeb | Anime Curse Videos I found on Facebook #1](https://www.youtube.com/watch?v=3ZzkZUzB-Sk)
 - [darling ohayo~??](https://www.youtube.com/watch?v=qRtg-Wb3wfk)
 - [someone sent me this video cause I reach 2k subs.](https://www.youtube.com/watch?v=o66T-_geznY)
 - [my first 6⭐map... khz possess me, kinda..](https://www.youtube.com/watch?v=ytpbXIZIzbU)
 - [How to make a Discord Music BOT with Filter + Custom Volumes | No Coding Require | Replit](https://www.youtube.com/watch?v=79xNC6KVQrY)
-- [[osu!] - CIDER GIRL  Cinderella &lpar;TV Size&rpar; [ How to communicate with friends ]](https://www.youtube.com/watch?v=h76Kt9kLLAg)
 <!-- YOUTUBE:END -->
 
 
