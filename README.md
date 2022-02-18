@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Insane godmode on - Team Grimoire vs. Laur - Grievous Lady +HDDT | osu!](https://www.youtube.com/watch?v=Ezvc-sfMVbM)
 - [Japan | Weeb | Anime Curse Videos I found on Facebook #1](https://www.youtube.com/watch?v=3ZzkZUzB-Sk)
 - [darling ohayo~??](https://www.youtube.com/watch?v=qRtg-Wb3wfk)
 - [someone sent me this video cause I reach 2k subs.](https://www.youtube.com/watch?v=o66T-_geznY)
 - [my first 6⭐map... khz possess me, kinda..](https://www.youtube.com/watch?v=ytpbXIZIzbU)
-- [How to make a Discord Music BOT with Filter + Custom Volumes | No Coding Require | Replit](https://www.youtube.com/watch?v=79xNC6KVQrY)
 <!-- YOUTUBE:END -->
 
 
