@@ -1,6 +1,6 @@
 ### Hi there, I'm Wilard - aka [SadSenpai][website] 👋 
 
-[![Website](https://img.shields.io/website?label=milfsupremacy.tk&style=for-the-badge&url=https%3A%2F%2Fwww.milfsupremacy.tk)](https://www.milfsupremacy.tk)
+[![Website](https://img.shields.io/website?label=sadgesenpai.ml&style=for-the-badge&url=https%3A%2F%2Fsadgesenpai.ml)](https://sadgesenpai.ml)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)
 [![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/JehBMxdef5)
 
@@ -72,7 +72,7 @@
 
 </details>
 
-[website]: https://www.milfsupremacy.tk
+[website]: https://sadgesenpai.ml
 [youtube]: https://youtube.com/wilardzysenpai
 [discord]: https://discord.gg/JehBMxdef5
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
