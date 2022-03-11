@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/Tomato6966/Multipurpose-discord-bot/issues/79) in [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot)
+1. ❗️ Opened issue [#86](https://github.com/Tomato6966/Multipurpose-discord-bot/issues/86) in [Tomato6966/Multipurpose-discord-bot](https://github.com/Tomato6966/Multipurpose-discord-bot)
   <!--END_SECTION:activity-->
   
 
