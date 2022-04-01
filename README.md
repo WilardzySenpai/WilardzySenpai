@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/diwasatreya/Lofi-Radio-Music-Bot/issues/6) in [diwasatreya/Lofi-Radio-Music-Bot](https://github.com/diwasatreya/Lofi-Radio-Music-Bot)
+1. 🎉 Merged PR [#1](https://github.com/WilardzySenpai/Hotdog/pull/1) in [WilardzySenpai/Hotdog](https://github.com/WilardzySenpai/Hotdog)
   <!--END_SECTION:activity-->
   
 
