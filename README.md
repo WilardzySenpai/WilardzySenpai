@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WilardzySenpai/Hotdog/pull/1) in [WilardzySenpai/Hotdog](https://github.com/WilardzySenpai/Hotdog)
+1. ❗️ Opened issue [#2](https://github.com/naveenpoddar/uptimer/issues/2) in [naveenpoddar/uptimer](https://github.com/naveenpoddar/uptimer)
   <!--END_SECTION:activity-->
   
 
