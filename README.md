@@ -44,11 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [meta mouse 185 bpm stream](https://www.youtube.com/watch?v=Los23SwhIl4)
 - [he just want to sleep...](https://www.youtube.com/watch?v=bxXY7923msM)
 - [How to make Discord Multi Purpose Bot w/ website](https://www.youtube.com/watch?v=dVJLwQQrNfQ)
 - [Insane godmode on - Team Grimoire vs. Laur - Grievous Lady +HDDT | osu!](https://www.youtube.com/watch?v=Ezvc-sfMVbM)
 - [Japan | Weeb | Anime Curse Videos I found on Facebook #1](https://www.youtube.com/watch?v=3ZzkZUzB-Sk)
-- [darling ohayo~??](https://www.youtube.com/watch?v=qRtg-Wb3wfk)
 <!-- YOUTUBE:END -->
 
 
