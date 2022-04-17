@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot/issues/12) in [roefinoavrililo/Discord.JS-Leveling-Bot](https://github.com/roefinoavrililo/Discord.JS-Leveling-Bot)
+1. ❗️ Opened issue [#139](https://github.com/maisans-maid/Mai/issues/139) in [maisans-maid/Mai](https://github.com/maisans-maid/Mai)
   <!--END_SECTION:activity-->
   
 
