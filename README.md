@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#139](https://github.com/maisans-maid/Mai/issues/139) in [maisans-maid/Mai](https://github.com/maisans-maid/Mai)
+1. 🗣 Commented on [#139](https://github.com/maisans-maid/Mai/issues/139) in [maisans-maid/Mai](https://github.com/maisans-maid/Mai)
   <!--END_SECTION:activity-->
   
 
