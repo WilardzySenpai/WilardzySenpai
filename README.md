@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/maisans-maid/Mai/issues/139) in [maisans-maid/Mai](https://github.com/maisans-maid/Mai)
+1. ❗️ Opened issue [#2](https://github.com/Tomato6966/discord-chat-bot/issues/2) in [Tomato6966/discord-chat-bot](https://github.com/Tomato6966/discord-chat-bot)
   <!--END_SECTION:activity-->
   
 
