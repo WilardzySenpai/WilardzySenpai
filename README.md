@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Tomato6966/discord-chat-bot/issues/2) in [Tomato6966/discord-chat-bot](https://github.com/Tomato6966/discord-chat-bot)
+1. ❗️ Opened issue [#16](https://github.com/sachinl0har/Discord.js-V12-Bot-Tutorial/issues/16) in [sachinl0har/Discord.js-V12-Bot-Tutorial](https://github.com/sachinl0har/Discord.js-V12-Bot-Tutorial)
   <!--END_SECTION:activity-->
   
 
