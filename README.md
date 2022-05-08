@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/sachinl0har/Discord.js-V12-Bot-Tutorial/issues/16) in [sachinl0har/Discord.js-V12-Bot-Tutorial](https://github.com/sachinl0har/Discord.js-V12-Bot-Tutorial)
+1. ❗️ Opened issue [#2](https://github.com/hongduccodedao/Bot-Music-Discord-v13/issues/2) in [hongduccodedao/Bot-Music-Discord-v13](https://github.com/hongduccodedao/Bot-Music-Discord-v13)
   <!--END_SECTION:activity-->
   
 
