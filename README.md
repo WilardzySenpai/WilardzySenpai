@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/hongduccodedao/Bot-Music-Discord-v13/issues/2) in [hongduccodedao/Bot-Music-Discord-v13](https://github.com/hongduccodedao/Bot-Music-Discord-v13)
+1. ❗️ Opened issue [#3](https://github.com/hongduccodedao/Bot-Music-Discord-v13/issues/3) in [hongduccodedao/Bot-Music-Discord-v13](https://github.com/hongduccodedao/Bot-Music-Discord-v13)
   <!--END_SECTION:activity-->
   
 
