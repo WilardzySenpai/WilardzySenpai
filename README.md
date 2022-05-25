@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hongduccodedao/Bot-Music-Discord-v13/issues/3) in [hongduccodedao/Bot-Music-Discord-v13](https://github.com/hongduccodedao/Bot-Music-Discord-v13)
+1. 🗣 Commented on [#3](https://github.com/peterhanania/voting-system/issues/3) in [peterhanania/voting-system](https://github.com/peterhanania/voting-system)
   <!--END_SECTION:activity-->
   
 
