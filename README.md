@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/peterhanania/voting-system/issues/3) in [peterhanania/voting-system](https://github.com/peterhanania/voting-system)
+1. 💪 Opened PR [#16](https://github.com/fez6/nekos.life-discord-bot/pull/16) in [fez6/nekos.life-discord-bot](https://github.com/fez6/nekos.life-discord-bot)
   <!--END_SECTION:activity-->
   
 
