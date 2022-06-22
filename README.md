@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/fez6/nekos.life-discord-bot/pull/16) in [fez6/nekos.life-discord-bot](https://github.com/fez6/nekos.life-discord-bot)
+1. ❗️ Opened issue [#139](https://github.com/Tomato6966/Musicium/issues/139) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
   <!--END_SECTION:activity-->
   
 
