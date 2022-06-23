@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#139](https://github.com/Tomato6966/Musicium/issues/139) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+1. 🗣 Commented on [#139](https://github.com/Tomato6966/Musicium/issues/139) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
   <!--END_SECTION:activity-->
   
 
