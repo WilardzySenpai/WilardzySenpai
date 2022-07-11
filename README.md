@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [osu! cursor IRL!! Colorful | H∆G &lpar;1/2 jumps&rpar;](https://www.youtube.com/watch?v=wN7Ldo6mais)
-- [Vibing to turi ip ip ip🔥 #turiipipip #vibes #shorts](https://www.youtube.com/watch?v=2TYWQzp42m4)
-- [yor forger AM edit &lpar;simple&rpar;](https://www.youtube.com/watch?v=sJZNKaXpn1M)
-- [How to use/host in CloHost | Host your Discord Bot within a minute! | Hosting 24/7 - Free!!!](https://www.youtube.com/watch?v=E_eaBH45eZA)
-- [What is harem?](https://www.youtube.com/watch?v=QQ_5i9MpC2M)
+- [streamerist • ML](https://www.youtube.com/watch?v=L84qOjS3b7U)
+- [streamerist • ML](https://www.youtube.com/watch?v=Is8S5TZGu_4)
+- [pog](https://www.youtube.com/watch?v=c3VODIO4g2M)
+- [ayoo?](https://www.youtube.com/watch?v=hlemYFa069o)
+- [ml streamerist](https://www.youtube.com/watch?v=IPMgxqVMhhY)
 <!-- YOUTUBE:END -->
 
 
