@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [streamerist • ML](https://www.youtube.com/watch?v=Is8S5TZGu_4)
 - [pog](https://www.youtube.com/watch?v=c3VODIO4g2M)
 - [ayoo?](https://www.youtube.com/watch?v=hlemYFa069o)
 - [ml streamerist](https://www.youtube.com/watch?v=IPMgxqVMhhY)
 - [ML streamerist | no sounds? lmao](https://www.youtube.com/watch?v=4uCpLNF8OKw)
+- [osu! cursor IRL!! Colorful | H∆G &lpar;1/2 jumps&rpar;](https://www.youtube.com/watch?v=wN7Ldo6mais)
 <!-- YOUTUBE:END -->
 
 
