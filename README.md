@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Make A Pretty Good Music Bot On Replit | v14 slash-Commands &amp; Prefix | PC/PHONE](https://www.youtube.com/watch?v=f1UaYTUnmEw)
 - [USAO - Miracle 5ympho X [Black Another 2013] &lpar;6.24 ⭐&rpar; | Passed finally, i can now rest.](https://www.youtube.com/watch?v=cdv6Y5ZyM60)
 - [THE ORAL CIGARETTES - Mou Ii kai? &lpar;5.43 ⭐&rpar;](https://www.youtube.com/watch?v=X_lxtZJaKOA)
 - [Serenity - Lionheart &lpar;5.94 ⭐&rpar; | I finallly did it](https://www.youtube.com/watch?v=BtCZwwyTQUM)
 - [streamerist • ML](https://www.youtube.com/watch?v=Is8S5TZGu_4)
-- [pog](https://www.youtube.com/watch?v=c3VODIO4g2M)
 <!-- YOUTUBE:END -->
 
 
