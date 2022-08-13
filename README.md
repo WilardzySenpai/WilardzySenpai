@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Discord Pings](https://www.youtube.com/watch?v=iEGwYlQ0l-Y)
 - [osu! with handcam after a long time](https://www.youtube.com/watch?v=5_XqjEgUSyA)
 - [How To Make Music Bot In Djs V13 | Replit | SlashCommands and Prefix | No Require Coding](https://www.youtube.com/watch?v=_crSCEwnF98)
 - [How To Make A Pretty Good Music Bot On Replit | v14 slash-Commands &amp; Prefix | PC/PHONE](https://www.youtube.com/watch?v=f1UaYTUnmEw)
 - [USAO - Miracle 5ympho X [Black Another 2013] &lpar;6.24 ⭐&rpar; | Passed finally, i can now rest.](https://www.youtube.com/watch?v=cdv6Y5ZyM60)
-- [THE ORAL CIGARETTES - Mou Ii kai? &lpar;5.43 ⭐&rpar;](https://www.youtube.com/watch?v=X_lxtZJaKOA)
 <!-- YOUTUBE:END -->
 
 
