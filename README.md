@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#145](https://github.com/Tomato6966/Musicium/issues/145) in [Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
+1. ❗️ Opened issue [#24](https://github.com/adrianhajdin/project_shareme_social_media/issues/24) in [adrianhajdin/project_shareme_social_media](https://github.com/adrianhajdin/project_shareme_social_media)
   <!--END_SECTION:activity-->
   
 
