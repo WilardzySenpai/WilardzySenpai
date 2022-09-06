@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/adrianhajdin/project_shareme_social_media/issues/24) in [adrianhajdin/project_shareme_social_media](https://github.com/adrianhajdin/project_shareme_social_media)
+1. ❗️ Opened issue [#296](https://github.com/Siris2314/NecroAtomicBot/issues/296) in [Siris2314/NecroAtomicBot](https://github.com/Siris2314/NecroAtomicBot)
   <!--END_SECTION:activity-->
   
 
