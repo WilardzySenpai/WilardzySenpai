@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Make An All In One Discord Bot with Music](https://www.youtube.com/watch?v=nBCwAFh1DqM)
 - [pings going crazy #discord #pings #random](https://www.youtube.com/watch?v=W8Kg7AM1hdA)
 - [Discord Pings](https://www.youtube.com/watch?v=iEGwYlQ0l-Y)
 - [osu! with handcam after a long time](https://www.youtube.com/watch?v=5_XqjEgUSyA)
 - [How To Make Music Bot In Djs V13 | Replit | SlashCommands and Prefix | No Require Coding](https://www.youtube.com/watch?v=_crSCEwnF98)
-- [How To Make A Pretty Good Music Bot On Replit | v14 slash-Commands &amp; Prefix | PC/PHONE](https://www.youtube.com/watch?v=f1UaYTUnmEw)
 <!-- YOUTUBE:END -->
 
 
