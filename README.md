@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Make An Advance Music Bot In DiscordJS v14 | No Coding Required | Hosting self Lavalink](https://www.youtube.com/watch?v=s7srp818Qk4)
 - [How To Make An All In One Discord Bot with Music](https://www.youtube.com/watch?v=nBCwAFh1DqM)
 - [pings going crazy #discord #pings #random](https://www.youtube.com/watch?v=W8Kg7AM1hdA)
 - [Discord Pings](https://www.youtube.com/watch?v=iEGwYlQ0l-Y)
 - [osu! with handcam after a long time](https://www.youtube.com/watch?v=5_XqjEgUSyA)
-- [How To Make Music Bot In Djs V13 | Replit | SlashCommands and Prefix | No Require Coding](https://www.youtube.com/watch?v=_crSCEwnF98)
 <!-- YOUTUBE:END -->
 
 
