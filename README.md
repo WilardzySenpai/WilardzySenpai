@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Monitor Your Replit Project | Make It 24/7 Online | SkyMonitoring](https://www.youtube.com/watch?v=HaSgrlrsaMs)
 - [How To Make Discord Moderation Bot with SlashCommands | No Coding Required | Repl.it](https://www.youtube.com/watch?v=gbjiH2pz3EY)
 - [How To Make An Advance Music Bot In DiscordJS v14 | No Coding Required | Hosting self Lavalink](https://www.youtube.com/watch?v=s7srp818Qk4)
 - [How To Make An All In One Discord Bot with Music](https://www.youtube.com/watch?v=nBCwAFh1DqM)
 - [pings going crazy #discord #pings #random](https://www.youtube.com/watch?v=W8Kg7AM1hdA)
-- [Discord Pings](https://www.youtube.com/watch?v=iEGwYlQ0l-Y)
 <!-- YOUTUBE:END -->
 
 
