@@ -48,7 +48,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Make Your Discord Bot Online 24/7 with FlyHost | 100% Uptime, No Lag | Premium Free Hosting](https://www.youtube.com/watch?v=CqMLdiVeiS8)
+- [[ OUTDATED || SITE UPDATED ] Host Your Discord Bot with FlyHost | 100% Uptime | Premium Free Hosting](https://www.youtube.com/watch?v=CqMLdiVeiS8)
 - [Eh paano kung- #shorts #caloocan #onlycaloocan](https://www.youtube.com/watch?v=EgPuwEjwso4)
 - [How To Make Discord Music Bot with Buttons and Custom Playlist | v2, DJSv14](https://www.youtube.com/watch?v=RMS8Zsc-kq4)
 - [How To Make Discord Music Bot with Buttons! | No Coding Required | 24/7 Online](https://www.youtube.com/watch?v=I8k9GPWXhtY)
