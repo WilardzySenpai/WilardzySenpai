@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [the darkest osu! joke I&#39;ve ever heard.](https://www.youtube.com/watch?v=8vhnueJCREU)
 - [A Free 24/7 Hosting Service | Retslav | 100% Uptime - Free - Easy](https://www.youtube.com/watch?v=rG3FliT_3qk)
 - [How To Make Discotd AutoMod In v14 | Prefix and Slash](https://www.youtube.com/watch?v=tHXJr-nj03c)
 - [[ OUTDATED || SITE UPDATED ] Host Your Discord Bot with FlyHost | 100% Uptime | Premium Free Hosting](https://www.youtube.com/watch?v=CqMLdiVeiS8)
 - [Eh paano kung- #shorts #caloocan #onlycaloocan](https://www.youtube.com/watch?v=EgPuwEjwso4)
-- [How To Make Discord Music Bot with Buttons and Custom Playlist | v2, DJSv14](https://www.youtube.com/watch?v=RMS8Zsc-kq4)
 <!-- YOUTUBE:END -->
 
 
