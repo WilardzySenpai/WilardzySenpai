@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [I made my discord bot to send Anime characters pictures 😊👌](https://www.youtube.com/watch?v=0GbldbByWPA)
 - [New Free Hosting Service! | 24-7 Free! | 100% Uptime!](https://www.youtube.com/watch?v=Z3JnTEjvTes)
 - [the darkest osu! joke I&#39;ve ever heard.](https://www.youtube.com/watch?v=8vhnueJCREU)
 - [A Free 24/7 Hosting Service | Retslav | 100% Uptime - Free - Easy](https://www.youtube.com/watch?v=rG3FliT_3qk)
 - [How To Make Discotd AutoMod In v14 | Prefix and Slash](https://www.youtube.com/watch?v=tHXJr-nj03c)
-- [[ OUTDATED || SITE UPDATED ] Host Your Discord Bot with FlyHost | 100% Uptime | Premium Free Hosting](https://www.youtube.com/watch?v=CqMLdiVeiS8)
 <!-- YOUTUBE:END -->
 
 
