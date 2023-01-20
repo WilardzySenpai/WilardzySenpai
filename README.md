@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#296](https://github.com/Siris2314/NecroAtomicBot/issues/296) in [Siris2314/NecroAtomicBot](https://github.com/Siris2314/NecroAtomicBot)
+1. 🎉 Merged PR [#1](https://github.com/WilardzySenpai/WaifuMusic/pull/1) in [WilardzySenpai/WaifuMusic](https://github.com/WilardzySenpai/WaifuMusic)
   <!--END_SECTION:activity-->
   
 
