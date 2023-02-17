@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Make Music Bot on Discord w/ Buttons | Free LavaLink Server](https://www.youtube.com/watch?v=tQZKci0aAx4)
 - [How To Create A Discord Music Bot in DiscordJS v14 | WaifuMusic Source | 10 minutes](https://www.youtube.com/watch?v=EftHBrzyTUY)
 - [is this an discord easter egg](https://www.youtube.com/watch?v=zzxSkAYpc8E)
 - [I made my discord bot to send Anime characters pictures 😊👌](https://www.youtube.com/watch?v=0GbldbByWPA)
 - [New Free Hosting Service! | 24-7 Free! | 100% Uptime!](https://www.youtube.com/watch?v=Z3JnTEjvTes)
-- [the darkest osu! joke I&#39;ve ever heard.](https://www.youtube.com/watch?v=8vhnueJCREU)
 <!-- YOUTUBE:END -->
 
 
