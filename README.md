@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How To Make Your Own Database Using MongoDB &lpar;built in admin role&rpar; | 2023](https://www.youtube.com/watch?v=8XhUKYVd5p4)
 - [Make Discord Giveaway Bot in Discord.js v14](https://www.youtube.com/watch?v=BzzOMmEct-I)
 - [Let&#39;s Make An All In One Discord Bot in DiscordJS v14 | No Coding Required](https://www.youtube.com/watch?v=hjt1CPDFYLI)
 - [Make Music Bot on Discord w/ Buttons | Free LavaLink Server](https://www.youtube.com/watch?v=tQZKci0aAx4)
 - [How To Create A Discord Music Bot in DiscordJS v14 | WaifuMusic Source | 10 minutes](https://www.youtube.com/watch?v=EftHBrzyTUY)
-- [is this an discord easter egg](https://www.youtube.com/watch?v=zzxSkAYpc8E)
 <!-- YOUTUBE:END -->
 
 
