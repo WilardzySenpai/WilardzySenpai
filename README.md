@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/WilardzySenpai/WaifuMusic/pull/3) in [WilardzySenpai/WaifuMusic](https://github.com/WilardzySenpai/WaifuMusic)
+1. 🗣 Commented on [#5](https://github.com/WilardzySenpai/WaifuMusic/issues/5#issuecomment-1655582619) in [WilardzySenpai/WaifuMusic](https://github.com/WilardzySenpai/WaifuMusic)
   <!--END_SECTION:activity-->
   
 
