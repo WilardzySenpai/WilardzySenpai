@@ -48,11 +48,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating Your All-in-One Discord Bot](https://www.youtube.com/watch?v=2L3i7NQ8DCM)
 - [Make &amp; Deploy Your Own Discord Bot Less than a minute](https://www.youtube.com/watch?v=2G0IPAfUTrU)
 - [How To Make Your Own Discord Bot Starting From 0 | Logging in and Register slash commands | DJS v.14](https://www.youtube.com/watch?v=qYDTkFyaU5E)
 - [How To Make Your Own Database Using MongoDB &lpar;built in admin role&rpar; | 2023](https://www.youtube.com/watch?v=8XhUKYVd5p4)
 - [Make Discord Giveaway Bot in Discord.js v14](https://www.youtube.com/watch?v=BzzOMmEct-I)
-- [Let&#39;s Make An All In One Discord Bot in DiscordJS v14 | No Coding Required](https://www.youtube.com/watch?v=hjt1CPDFYLI)
 <!-- YOUTUBE:END -->
 
 
