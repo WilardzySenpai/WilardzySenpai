@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/WilardzySenpai/WaifuMusic/issues/5#issuecomment-1655582619) in [WilardzySenpai/WaifuMusic](https://github.com/WilardzySenpai/WaifuMusic)
+1. 🚀 Published release [2023.07.25.1](https://github.com/WilardzySenpai/Project-Luf/releases/tag/2023.07.25.1) in [WilardzySenpai/Project-Luf](https://github.com/WilardzySenpai/Project-Luf)
   <!--END_SECTION:activity-->
   
 
