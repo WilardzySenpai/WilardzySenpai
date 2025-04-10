@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [First and old](https://github.com/WilardzySenpai/AutoClicker/releases/tag/v2.15.24) in [WilardzySenpai/AutoClicker](https://github.com/WilardzySenpai/AutoClicker)
+1. ❗ Opened issue [#1](https://github.com/Riyooo/Docs-Exporter/issues/1) in [Riyooo/Docs-Exporter](https://github.com/Riyooo/Docs-Exporter)
   <!--END_SECTION:activity-->
   
 
