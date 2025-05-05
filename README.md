@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Riyooo/Docs-Exporter/issues/1) in [Riyooo/Docs-Exporter](https://github.com/Riyooo/Docs-Exporter)
+1. ❗ Opened issue [#348](https://github.com/skick1234/DisTube/issues/348) in [skick1234/DisTube](https://github.com/skick1234/DisTube)
   <!--END_SECTION:activity-->
   
 
