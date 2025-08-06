@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#348](https://github.com/skick1234/DisTube/issues/348) in [skick1234/DisTube](https://github.com/skick1234/DisTube)
+1. 🎉 Merged PR [#47](https://github.com/WilardzySenpai/grow-garden-guru/pull/47) in [WilardzySenpai/grow-garden-guru](https://github.com/WilardzySenpai/grow-garden-guru)
   <!--END_SECTION:activity-->
   
 
