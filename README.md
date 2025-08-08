@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/WilardzySenpai/grow-garden-guru/pull/50) in [WilardzySenpai/grow-garden-guru](https://github.com/WilardzySenpai/grow-garden-guru)
+1. 🎉 Merged PR [#51](https://github.com/WilardzySenpai/grow-garden-guru/pull/51) in [WilardzySenpai/grow-garden-guru](https://github.com/WilardzySenpai/grow-garden-guru)
   <!--END_SECTION:activity-->
   
 
