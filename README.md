@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/WilardzySenpai/grow-garden-guru/pull/64) in [WilardzySenpai/grow-garden-guru](https://github.com/WilardzySenpai/grow-garden-guru)
+1. 🚀 Published release [AppLocker](https://github.com/WilardzySenpai/AppLocker/releases/tag/v1.0.0) in [WilardzySenpai/AppLocker](https://github.com/WilardzySenpai/AppLocker)
   <!--END_SECTION:activity-->
   
 
