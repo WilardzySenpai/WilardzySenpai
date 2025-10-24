@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2-beta fix-multiple-instances](https://github.com/WilardzySenpai/AppLocker/releases/tag/1.0.2) in [WilardzySenpai/AppLocker](https://github.com/WilardzySenpai/AppLocker)
+1. 🚀 Published release [v1.0.3-beta](https://github.com/WilardzySenpai/AppLocker/releases/tag/1.0.3) in [WilardzySenpai/AppLocker](https://github.com/WilardzySenpai/AppLocker)
   <!--END_SECTION:activity-->
   
 
