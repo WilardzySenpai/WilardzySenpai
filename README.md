@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3-beta](https://github.com/WilardzySenpai/AppLocker/releases/tag/1.0.3) in [WilardzySenpai/AppLocker](https://github.com/WilardzySenpai/AppLocker)
+1. 🚀 Published release [v2.0.0](https://github.com/WilardzySenpai/Ram-Monitor-README/releases/tag/v2) in [WilardzySenpai/Ram-Monitor-README](https://github.com/WilardzySenpai/Ram-Monitor-README)
   <!--END_SECTION:activity-->
   
 
