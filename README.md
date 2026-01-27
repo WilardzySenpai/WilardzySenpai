@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/WilardzySenpai/Ram-Monitor-README/releases/tag/v2) in [WilardzySenpai/Ram-Monitor-README](https://github.com/WilardzySenpai/Ram-Monitor-README)
+1. 💪 Opened PR [#1](https://github.com/WilardzySenpai/Smarthphone-Simulation/pull/1) in [WilardzySenpai/Smarthphone-Simulation](https://github.com/WilardzySenpai/Smarthphone-Simulation)
   <!--END_SECTION:activity-->
   
 
