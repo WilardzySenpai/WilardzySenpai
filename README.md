@@ -68,7 +68,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/WilardzySenpai/Smarthphone-Simulation/pull/2) in [WilardzySenpai/Smarthphone-Simulation](https://github.com/WilardzySenpai/Smarthphone-Simulation)
+1. 🚀 Published release [Smarthphone Simulation Project v1](https://github.com/WilardzySenpai/Smarthphone-Simulation/releases/tag/v1.0.0) in [WilardzySenpai/Smarthphone-Simulation](https://github.com/WilardzySenpai/Smarthphone-Simulation)
   <!--END_SECTION:activity-->
   
 
